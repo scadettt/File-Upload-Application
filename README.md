@@ -97,3 +97,8 @@ We have implemented file compression measures before encryption and uploading of
 
 ### Inclusivity feature
 The code provides informative and user-friendly error statements that help all users easily identify the source of failure and also provide the possible actionable steps they can take to resolve such issues. 
+
+### Team members
+- Ng Wan Qing
+- Shivani Mariappan
+- Ho Atsadet
